@@ -33,7 +33,6 @@ mes_at_string = f"{date.month:02d}" + " " + "-" + " "f"{mes.capitalize()}"
 # mes_at_string = f"{date.month:02d}-{mes.upper()}"
 
 # SUBCARPETAS URL CORRECTA
-# servicio = "07- AGBAR-SUEZ"
 # subcarpeta1 = "01 - Listados diarios"
 # subcarpeta2 = "03 - KCRM"
 # subcarpeta3 = "15 - Control Interno Agentes Aguas de Barcelona"
